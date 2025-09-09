@@ -31,7 +31,8 @@ A comprehensive web-based visualization tool that demonstrates how different sor
 
 ## How to Use
 
-1. Either open `index.html` in your web browser or [click here](https://rovishkataria.github.io/Sorting-Visualizer/)
+1. Either open `index.html` in your web browser or [click here](https://krishna-kumar-bais.github.io/Sorting_Visualizer/
+)
 2. Select a sorting algorithm from the dropdown menu
 3. Adjust the array size and speed using the sliders
 4. Click "Generate New Array" to create a random array
